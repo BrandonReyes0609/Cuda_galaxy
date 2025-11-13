@@ -6,6 +6,10 @@
 - **Analista - Carlos Valladares**
 - **Programador principal - Josué Say**
 
+## Enlaces
+
+- [Enlace repositorio](https://github.com/BrandonReyes0609/Cuda_galaxy.git)
+
 ## Fase 1
 
 1. Define cuántas galaxias tendrá tu universo (bloques) y cuántas estrellas hay por galaxia (hilos).
